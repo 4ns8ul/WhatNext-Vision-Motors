@@ -30,19 +30,6 @@ All workflows, automations, and triggers are implemented using Apex, Process Bui
 
 ---
 
-## 🖼️ Screenshots
-
-> Upload screenshots to your GitHub repo and replace links below.
-
-| Feature | Screenshot |
-|--------|------------|
-| Vehicle Orders | ![](./Screenshots/Vehicle%20Orders.png) |
-| Dealers Tab | ![](./Screenshots/Vehicle%20Dealers%20Tab.png) |
-| Auto Assign Dealer Flow | ![](./Screenshots/Flow%20-%20Auto%20Assign%20Dealer.png) |
-| Batch Apex Code | ![](./Screenshots/Code%20-%20VehicleOrderBatch.png) |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -69,7 +56,7 @@ The project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vision-motors-salesforce.git
+   git clone https://github.com/4ns8ul/WhatNext-Vision-Motors.git
    ```
 2. Open in Salesforce Developer Console.
 3. Create required custom objects:
